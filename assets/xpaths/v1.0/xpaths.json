@@ -1,0 +1,13 @@
+{
+    "hVR": "//a/yt-formatted-string[@id='video-title']/..",
+    "hVSh": "//a/span[@id='video-title']/..",
+    "hVSi": "//a/h3/span[@id='video-title']/../..",
+    "sVR": "//a[@href='{{HREF}}']/yt-formatted-string[@id='video-title']",
+    "sVSh": "//a[@href='{{HREF}}']/span[@id='video-title']",
+    "sVSi": "//a[@href='{{HREF}}']/h3/span[@id='video-title']",
+    "rVR": "//a/yt-formatted-string[@id='video-title']",
+    "rVSh": "//a/span[@id='video-title']",
+    "rVSi": "//a/h3/span[@id='video-title']",
+    "navProgressBar": "//yt-page-navigation-progress[not(@hidden)]",
+    "vidSkeleton": "//div[@id='related-skeleton']/div/div[@class='video-skeleton']"
+}
