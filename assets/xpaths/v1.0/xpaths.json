@@ -9,5 +9,10 @@
     "rVSh": "//a/span[@id='video-title']",
     "rVSi": "//a/h3/span[@id='video-title']",
     "navProgressBar": "//yt-page-navigation-progress[not(@hidden)]",
-    "vidSkeleton": "//div[@id='related-skeleton']/div/div[@class='video-skeleton']"
+    "vidSkeleton": "//div[@id='related-skeleton']/div/div[@class='video-skeleton']",
+    "menuBtn": "//a[@href='{{HREF}}']/ancestor::div[@id='details']//button",
+    "niBtn": "//yt-formatted-string[text()='Not interested']",
+    "drcBtn": "//yt-formatted-string[text()=\"Don't recommend channel\"]",
+    "menuRnd": "//div[@id='menu']/ytd-menu-renderer",
+    "logoBtn": "//a[@id='logo']"
 }
